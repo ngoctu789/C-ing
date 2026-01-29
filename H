@@ -1,0 +1,11 @@
+Config = {
+
+
+
+namescript = "Test Hub",--Tên Script
+
+logoscript "117390141608083",--ID Logo Script
+
+tacgia "Lam Dai"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/HopScript.luau"))()
