@@ -1,0 +1,8 @@
+Config = {
+     namescript = "Tét hub",--Tên Script
+
+     logoscript "119173684672282",--ID Logo Script
+
+      tacgia "đeo cho"-- Tên Tác Giả
+)
+loadstring(game:HttpGet("https://github.com/LuaCrack/Zis/raw/refs/heads/main/ZisXtNewVn"))()
